@@ -23,7 +23,8 @@ We have 32x32 image with a cell nuclei needed to be classified into one of the f
 
 In the input directory, we have two sub directories *train* and *test* containing labelled and unlabeled images respectively. 
 The *train* folder contains images in relevant class directories - 
-```input/train/train/Cancer
+```
+input/train/train/Cancer
 input/train/train/Immune
 input/train/train/Connective
 input/train/train/Normal
